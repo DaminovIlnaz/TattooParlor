@@ -1,0 +1,18 @@
+.crudContainer{
+    margin-left: 400px;
+}
+
+.crudContainer .signOut{
+    margin-top: 30px;
+    display: inline;
+    margin-left: 100px;
+}
+ .input{
+     margin-left: 100px;
+     display: inline;
+     margin-top: 50px;
+ }
+
+ .newTat{
+     margin-top: 20px;
+ }
